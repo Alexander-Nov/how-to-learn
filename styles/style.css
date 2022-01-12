@@ -17,7 +17,6 @@
   background-color: #f2f2f2;
   display: flex;
   position: relative;
-  /* z-index: -3; */
 }
 
 .logo {
@@ -59,7 +58,6 @@
   padding: 0;
 }
 
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   position: absolute;
   top: 64px;
@@ -88,7 +86,6 @@
 
 .description {
   margin-top: 100px;
-  /* padding-bottom: 100px; */
 }
 
 .two-columns {
@@ -125,7 +122,6 @@
 .two-columns__paragraph {
   margin: 0 0 30px 0;
   padding: 0;
-  /* margin-bottom: 30px; */
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -162,7 +158,6 @@
 .section-subtitle {
   margin: 20px 0 0 0;
   padding: 0;
-  /* margin-top: 20px; */
   width: 60%;
   text-align: center;
   line-height: 34px;
@@ -178,10 +173,6 @@
   flex-direction: row;
   width: 1100px;
   list-style: none;
-  /* margin-left: auto;
-  margin-right: auto; */
-  /* margin-bottom: 100px; */
-  /* margin-top: 0; */
   margin: auto 0;
   padding: 0;
 }
@@ -217,7 +208,6 @@
   min-height: 890px;
   width: 100%;
   position: relative;
-  /* padding-top: 100px; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -270,10 +260,6 @@
 .kaufman {
   background-color: #1f1f1f;
   position: relative;
-  /* min-height: 890px;
-  width: 100%;
-  padding-top: 100px;
-  z-index: -2; */
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -306,11 +292,6 @@
   color: white;
 }
 
-/* .kaufman__text_theme_dark {
-  color: white;
-} */
-
-/* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
@@ -335,7 +316,6 @@
   display: flex;
   align-items: center;
   flex-direction: column;
-  /* position: relative; */
 }
 
 .footer__columns {
@@ -347,15 +327,12 @@
   margin-bottom: 40px;
   width: 90%;
   min-height: 250px;
-  /* height: 100%; */
-  /* align-content: stretch; */
 }
 
 .footer__column {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  /* height: 100%; */
 }
 
 .footer__column_content_copyright {
@@ -363,9 +340,6 @@
   flex-direction: column;
   justify-content: space-between;
   flex-basis: 711px;
-  /* height: 100%; */
-  /* align-content: stretch; */
-  /* align-items: stretch; */
   align-self: stretch;
 
 }
@@ -419,21 +393,7 @@
 
 .footer__column_content_social {
   align-self: stretch;
-  /* align-self: center; */
-  /* align-items: center; */
 }
-
-/* .footer__social-link {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  color: white;
-}
-
-.footer__social-link:last-of-type {
-  margin-bottom: 16px;
-  color: white;
-} */
 
 .footer__social-icon {
   width: 16px;
