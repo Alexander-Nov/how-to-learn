@@ -1,10 +1,9 @@
 # Проект: Как научиться учиться
-## Верстка: Александр Новоселов
 ---
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### О проекте
+## О проекте
 Первая проектная работа в курсе Яндекс.Практикума.
 
 Проект предназначен для отработки навыков вёрстки (HTML + CSS), взаимного позиционирования блоков и элементов страницы, демонстрирует использование flexbox верстки для создания страницы.
